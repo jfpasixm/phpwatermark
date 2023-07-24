@@ -6,7 +6,7 @@ Initially coded last November 9, 2017 using PHP 7.1.8. Rechecked for compatabili
 
 <p>A simple script that adds watermark on images using PHP. If you want a different watermark, you can create your own using Adobe Photoshop.</p>
 
-<p>There is an article about watermark on images which you can read on [fstoppers](https://fstoppers.com/business/debate-over-watermarks-photography-77352) </p>
+There is an article about watermark on images which you can read on [fstoppers](https://fstoppers.com/business/debate-over-watermarks-photography-77352)
 
 ### Installation
 
@@ -16,7 +16,7 @@ Copy the files to htdocs folder <br>(Mine is C:\xampp\htdocs\ using xampp, yours
 Open your browser, then navigate to http://localhost/phpwatermark/ and press "Enter"<br>(Your test URL might be different)
 
 ## Note
-Before you can run this code/script, you need to install GD Library first in your Server. For more info about PHP GD Library, visit this [php.net](https://php.net/manual/en/book.image.php) to read more.
+Before you can run this code/script, you need to install GD Library first in your Server. For more info about PHP GD Library, visit this at [php.net](https://php.net/manual/en/book.image.php) to read more.
 
 ## Changelog
 <table style="border: none;">
