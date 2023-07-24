@@ -6,7 +6,7 @@ Initially coded last November 9, 2017 using PHP 7.1.8. Rechecked for compatabili
 
 <p>A simple script that adds watermark on images using PHP. If you want a different watermark, you can create your own using Adobe Photoshop.</p>
 
-<p>There is an article about watermark on images which you can read on [fstoppers](https://fstoppers.com/business/debate-over-watermarks-photography-77352).</p>
+<p>There is an article about watermark on images which you can read on [fstoppers](https://fstoppers.com/business/debate-over-watermarks-photography-77352) </p>
 
 ### Installation
 
